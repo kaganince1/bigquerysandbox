@@ -7,3 +7,5 @@ Google BigQuery çevrimiçi veritabanına erişmek için C# windows uygulaması.
 <p>
   <img src="doc/test1.JPG">
 </p>
+
+I use 100.000 datas from movies.csv. To get datas <a>https://grouplens.org/datasets/movielens/</a>
