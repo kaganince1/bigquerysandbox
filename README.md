@@ -10,4 +10,8 @@ Google BigQuery çevrimiçi veritabanına erişmek için C# windows uygulaması.
 
 I use 100.000 datas from movies.csv. To get datas <a>https://grouplens.org/datasets/movielens/</a>
 
+Movies.csv'den 100.000 veri olanını kullanıyorum. Veriye ulaşmak için <a>https://grouplens.org/datasets/movielens/</a>
+
 If you want to run app, you need to change directory of key.json <strong>System.Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", "D:/İndirilenler/key.json");</strong> from this line for every event function.
+
+Kodu çalıştırmak için <strong>System.Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", "D:/İndirilenler/key.json");</strong> satırındaki yolu kendi key.json bulanan yol ile değiştirmeniz gerekiyor.
