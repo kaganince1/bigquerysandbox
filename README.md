@@ -4,7 +4,7 @@ C# windows application to access Google BigQuery online database. BigQuery Sandb
 
 Google BigQuery çevrimiçi veritabanına erişmek için C# windows uygulaması. BigQuery Sandbox, yalnızca Select komutunun kullanılmasına izin verdiğinden, yalnızca Select uygulamasını yaptım.
 
-<p>
+<p align="center">
   <img src="doc/test1.JPG">
 </p>
 
