@@ -1,0 +1,278 @@
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\BigDataProject_.exe.config
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\BigDataProject_.exe
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\BigDataProject_.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\netstandard.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.AppContext.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Collections.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.ComponentModel.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Console.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Data.Common.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Globalization.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.Compression.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.Pipes.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Linq.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.Http.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.Ping.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.Requests.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.Security.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.Sockets.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.ObjectModel.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Reflection.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Resources.Reader.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Resources.Writer.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Claims.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.Principal.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Security.SecureString.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Text.Encoding.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Thread.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Timer.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.ValueTuple.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Xml.XPath.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Api.Gax.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Bigquery.v2.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Core.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Cloud.BigQuery.V2.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Api.Gax.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Api.Gax.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Bigquery.v2.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Bigquery.v2.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Apis.Core.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Cloud.BigQuery.V2.pdb
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Google.Cloud.BigQuery.V2.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.csprojAssemblyReference.cache
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.exe.config
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.Form1.resources
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.Properties.Resources.resources
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.csproj.GenerateResource.cache
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.csproj.CopyComplete
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.exe
+C:\Users\ilhan\source\repos\BigDataProject_\BigDataProject_\obj\Debug\BigDataProject_.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\BigDataProject_.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\BigDataProject_.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\BigDataProject_.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\netstandard.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.AppContext.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Collections.Concurrent.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Collections.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Collections.NonGeneric.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Collections.Specialized.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.ComponentModel.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Console.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Data.Common.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.Debug.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.Process.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.Tools.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Drawing.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Dynamic.Runtime.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Globalization.Calendars.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Globalization.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Globalization.Extensions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.Compression.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.FileSystem.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.Pipes.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Linq.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Linq.Expressions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Linq.Parallel.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Linq.Queryable.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.Http.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.NameResolution.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.NetworkInformation.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.Ping.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.Requests.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.Security.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.Sockets.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Net.WebSockets.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.ObjectModel.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Reflection.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Reflection.Extensions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Reflection.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Resources.Reader.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Resources.ResourceManager.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Resources.Writer.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Extensions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Handles.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.InteropServices.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Numerics.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Claims.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.Principal.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Security.SecureString.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Text.Encoding.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Text.RegularExpressions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Overlapped.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Tasks.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Thread.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.ThreadPool.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Timer.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.ValueTuple.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Xml.XDocument.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Xml.XmlDocument.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Xml.XPath.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Api.Gax.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Auth.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Bigquery.v2.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Core.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Cloud.BigQuery.V2.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Newtonsoft.Json.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Api.Gax.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Api.Gax.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Auth.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Auth.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Bigquery.v2.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Bigquery.v2.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Core.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Apis.Core.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Cloud.BigQuery.V2.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Google.Cloud.BigQuery.V2.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\Newtonsoft.Json.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.csprojAssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.csproj.CopyComplete
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Projeler\C# projeler\BigDataBigquery2\BigDataProject_\obj\Debug\BigDataProject_.pdb
